@@ -1,16 +1,3 @@
-# Sensor de distancia JSN-SR04T 2.0
-Mediremos hasta 5 metros de distancia con Arduino.
-
-### Requisitos
-- Tener el IDE de [Arduino](https://www.arduino.cc/en/Main/Software) (o el de tu preferencia) con la versión más actual
-- Contar con las librerías [NewPing](https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home) y [medianFilter](https://github.com/jeroendoggen/Arduino-signal-filtering-library)
-- Tener el material para hacer el proyecto (obvio)
-
-### Código
-**[Aqui](https://github.com/proyectoTEOS/Sensor-de-distancia-JSN-SR04T-2.0/blob/master/Sensor-de-distancia-JSN-SR04T-2.0.ino)** podrás obtener el link del código, también dejaremos
-una vista previa aquí abajo.
-
-```c++
 /*
   Created by TEOS
   Domotic with Arduino https://goo.gl/btZpjs
@@ -51,8 +38,3 @@ void loop() {
 
   delay(500);
 }
-```
-
-### Diagrama
-El siguiente esquemático muestra como se debe conectar todos los componentes con la placa.
-![](https://github.com/proyectoTEOS/Sensor-de-distancia-JSN-SR04T-2.0/blob/master/Sensor-de-distancia-JSN-SR04T-2.0-5.jpg)
