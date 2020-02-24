@@ -55,4 +55,4 @@ void loop() {
 
 ### Diagrama
 El siguiente esquemático muestra como se debe conectar todos los componentes con la placa.
-![](https://github.com/proyectoTEOS/Sensor-de-distancia-JSN-SR04T-2.0/blob/master/Sensor-de-distancia-JSN-SR04T-2.0-5.jpg)
+![](https://github.com/proyectoTEOS/Sensor-de-distancia-JSN-SR04T-2.0/blob/master/Sensor-de-distancia-JSN-SR04T-2.0.jpg)
